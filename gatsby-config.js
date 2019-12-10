@@ -4,7 +4,7 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Babs -TDP Site`,
+    siteTitleAlt: `Design is Good Business - Gatsby`,
   },
   plugins: [
     {
@@ -24,8 +24,8 @@ module.exports = {
         short_name: `Cara`,
         description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
         start_url: `/`,
-        background_color: `#141821`,
-        theme_color: `#f6ad55`,
+        background_color: `#8e6398`,
+        theme_color: `#3291b4`,
         display: `standalone`,
         icons: [
           {
